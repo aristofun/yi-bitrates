@@ -1,4 +1,4 @@
-# Xiaomi Yi camera bitrates
+# Xiaomi Yi 1.5.6 bitrates
 Xiaomi Yi camera 1.5.6 firware bitrate codes are the same as 1.2.13
 
 bitrate |address
