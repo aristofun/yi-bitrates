@@ -3,6 +3,9 @@ Xiaomi Yi camera 1.5.6 firware bitrate codes are the same as 1.2.13
 
 bitrate |address
 --- | ---
+10 mbps |0x4120
+12 mbps |0x4140
+16 mbps |0x4170
 18 mbps |0x4190
 20 mbps |0x41A0
 25 mbps |0x41C8
