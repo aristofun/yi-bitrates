@@ -1,4 +1,5 @@
 # Xiaomi Yi Z2*L 1.5.6 customized bitrates script
+# WARNING: not compatible with 1.5.12 firmware!
 # see https://github.com/aristofun/yi156bitrates
 #
 
