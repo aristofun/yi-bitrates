@@ -1,7 +1,7 @@
-# Xiaomi Yi 1.5.6 bitrates
-Xiaomi Yi camera 1.5.6 firware bitrate codes are the same as 1.2.13
+## Xiaomi Yi bitrate addresses
+Xiaomi Yi camera 1.5.6/1.5.12 firware bitrate codes are the same as 1.2.13
 
-But resolution address codes are different. See the autoexec.ash file for full list of customized resolution bitrates.
+But resolution address codes are different. See the autoexec_*.ash file for full list of customized resolution bitrates.
 
 bitrate |address
 --- | ---
@@ -22,3 +22,5 @@ bitrate |address
 https://github.com/PJanisio/Xiaomi_Yi_autoexec/blob/master/bitrate/1.2.13/resolution_addresses.md
 https://github.com/PJanisio/Xiaomi_Yi_autoexec/blob/master/bitrate/1.2.13/bitrate_addresses.md
 
+## WARNING
+This scripts are provided "as is", use them at your own risk. Author is not responsible for any damage or losses (neither actual or potential). Be carefull, watch out for different hardware revisions (Z2*/L/S etc.), read comments inside `*.ash` files.
