@@ -23,4 +23,4 @@ https://github.com/PJanisio/Xiaomi_Yi_autoexec/blob/master/bitrate/1.2.13/resolu
 https://github.com/PJanisio/Xiaomi_Yi_autoexec/blob/master/bitrate/1.2.13/bitrate_addresses.md
 
 ## WARNING
-This scripts are provided "as is", use them at your own risk. Author is not responsible for any damage or losses (neither actual or potential). Be carefull, watch out for different hardware revisions (Z2*/L/S etc.), read comments inside `*.ash` files.
+These files are provided "as is", use them at your own risk. Author is not responsible for any damage or loss, caused by information provided. Be carefull, watch out for different hardware revisions (Z2*/L/S etc.), read comments inside `*.ash` files.
